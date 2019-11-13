@@ -1,4 +1,4 @@
-mutils
+imutils
 opencv-python
 numpy
 request
